@@ -4,7 +4,6 @@
 [![Pandas](https://img.shields.io/badge/Pandas-2.0+-orange.svg)](https://pandas.pydata.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3+-red.svg)](https://scikit-learn.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## 🚀 Project Overview
 
@@ -161,7 +160,6 @@ python main.py clean
 ### K-means Clustering
 ![Clustering Scatter Plot](https://via.placeholder.com/600x300?text=K-means+Clustering+Plot)
 
-*Note: Replace placeholder images with actual screenshots from your notebook.*
 
 ## 🏗️ Project Architecture
 
@@ -194,25 +192,6 @@ aadhaar-analysis/
 - **Robust Error Handling**: Graceful failure on malformed data
 - **Memory Optimization**: Chunked processing for large datasets
 - **Reproducibility**: Deterministic random seeds for ML
-
-## 🤝 Contributing
-
-Contributions welcome! Please:
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Your Name**
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
 
 ## 🙏 Acknowledgments
 
