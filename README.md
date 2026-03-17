@@ -233,8 +233,7 @@ aadhaar_project/
 ├── main.py                       # CLI entry point
 ├── requirements.txt              # Dependencies
 ├── .gitignore                    # Git ignore rules
-├── file_structure.ipynb          # 📊 Interactive analysis notebook
-├── RUN_DIAGNOSTIC.ipynb          # 📋 Project documentation
+├── Analysis_Report.ipynb         # 📊 Interactive analysis notebook
 ├── data/                         # Raw CSV input files
 ├── output/                       # Generated analysis results
 └── README.md                     # This file
@@ -242,7 +241,7 @@ aadhaar_project/
 
 ## Analysis Features
 
-The `file_structure.ipynb` notebook provides:
+The `Analysis_Report.ipynb` notebook provides:
 
 - **State Volume Comparison**: Interactive bar charts with sliding window
 - **Monthly Patterns**: Time series analysis with relative percentages
@@ -271,7 +270,7 @@ The `file_structure.ipynb` notebook provides:
 
 1. Add functions to `src/analysis.py`
 2. Save results as CSV in `output/analysis_results/`
-3. Update `file_structure.ipynb` to load and visualize new results
+3. Update `Analysis_Report.ipynb` to load and visualize new results
 
 ### Configuration
 
@@ -283,8 +282,7 @@ All settings in `src/config.py`:
 
 ## Notebooks
 
-- **`file_structure.ipynb`**: Main analysis and visualization interface
-- **`RUN_DIAGNOSTIC.ipynb`**: Project documentation and reporting
+- **`Analysis_Report.ipynb`**: Main analysis and visualization interface
 
 ## Dependencies
 
