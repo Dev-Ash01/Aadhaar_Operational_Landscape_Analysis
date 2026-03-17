@@ -62,8 +62,8 @@ This project provides data-driven answers through automated pipelines and intera
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/aadhaar-analysis.git
-cd aadhaar-analysis
+git clone https://github.com/Dev-Ash01/Aadhaar_Operational_Landscape_Analysis.git
+cd Aadhaar_Operational_Landscape_Analysis
 ```
 
 ### 2. Create Virtual Environment
@@ -83,7 +83,8 @@ pip install -r requirements.txt
 ```
 
 ### 4. Prepare Data
-Place your raw CSV files in the `data/` folder structure:
+**Note:** Raw data files are not included in this repository due to size constraints. Place your raw CSV files in the `data/` folder structure:
+
 ```
 data/
 ├── enrollment_folder/
@@ -94,6 +95,8 @@ data/
 └── biometric_updates_folder/
     └── ...
 ```
+
+The data can be obtained from the official UIDAI portal at [https://event.data.gov.in](https://event.data.gov.in).
 
 ## 🎮 Usage
 
