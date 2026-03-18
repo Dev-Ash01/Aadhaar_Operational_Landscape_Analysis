@@ -152,13 +152,10 @@ python main.py clean
 ## 📈 Sample Visualizations
 
 ### State Volume Comparison
-![State Volume Chart](https://via.placeholder.com/600x300?text=State+Volume+Comparison+Chart)
+![State Volume Chart](https://github.com/user-attachments/assets/af5ed9f1-727f-4aef-84ba-c05083326f26)
 
-### Seasonality Analysis
-![Seasonality Chart](https://via.placeholder.com/600x300?text=Seasonality+Analysis+Chart)
-
-### K-means Clustering
-![Clustering Scatter Plot](https://via.placeholder.com/600x300?text=K-means+Clustering+Plot)
+### Age Distribution Pie Chart Comparision
+![Age Distribution Pie Chart Comparision](https://github.com/user-attachments/assets/94c795d2-e562-4851-b1b1-f0a49f4b7a1a)
 
 
 ## 🏗️ Project Architecture
